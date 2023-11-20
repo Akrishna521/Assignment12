@@ -1,0 +1,7 @@
+C:\DOT NET\Day 11\ConAppAssignmentQuickSort\ConAppAssignmentQuickSort\bin\Debug\ConAppAssignmentQuickSort.exe.config
+C:\DOT NET\Day 11\ConAppAssignmentQuickSort\ConAppAssignmentQuickSort\bin\Debug\ConAppAssignmentQuickSort.exe
+C:\DOT NET\Day 11\ConAppAssignmentQuickSort\ConAppAssignmentQuickSort\bin\Debug\ConAppAssignmentQuickSort.pdb
+C:\DOT NET\Day 11\ConAppAssignmentQuickSort\ConAppAssignmentQuickSort\obj\Debug\ConAppAssignmentQuickSort.csproj.AssemblyReference.cache
+C:\DOT NET\Day 11\ConAppAssignmentQuickSort\ConAppAssignmentQuickSort\obj\Debug\ConAppAssignmentQuickSort.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 11\ConAppAssignmentQuickSort\ConAppAssignmentQuickSort\obj\Debug\ConAppAssignmentQuickSort.exe
+C:\DOT NET\Day 11\ConAppAssignmentQuickSort\ConAppAssignmentQuickSort\obj\Debug\ConAppAssignmentQuickSort.pdb
